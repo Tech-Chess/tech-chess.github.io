@@ -2,7 +2,7 @@
 title: 'Tech Chess'
 description: 'Techess is the official chess club of MIT.'
 url: 'http://tech-chess.github.io' # the base hostname & protocol for your site
-footer_text: 'This text is footer text. Footer text goes here.'
+footer_text: 'contact: techess@mit.edu'
 
 # Admin Settingsf
 admin_name: 'Andy Trattner'
