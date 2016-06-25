@@ -1,2 +1,2 @@
-# techess.github.io
-Official website of the MIT Chess Club
+# tech-chess.github.io
+Official website of the MIT Chess Club.
