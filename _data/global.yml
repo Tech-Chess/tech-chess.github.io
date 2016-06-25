@@ -9,4 +9,4 @@ admin_name: 'Andy Trattner'
 admin_email: 'techess-vp@mit.edu'
 
 # Images
-[logo-transparent]: /img/techess_transparent.png "Techess Logo (transparent)"
+logo-transparent: /img/techess_transparent.png "Techess Logo (transparent)"
