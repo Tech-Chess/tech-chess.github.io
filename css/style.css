@@ -9,7 +9,7 @@ $scotch-secondary: #FF7B7B;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
-
+%lato {font-family: 'Lato', sans-serif; }
 
 body {
     @extend %roboto;
