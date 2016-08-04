@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Tech Chess'
 description: 'Tech Chess is the chess club of MIT.'
-url: 'http://tech-chess.github.io' # the base hostname & protocol for your site
+url: 'https://tech-chess.github.io' # the base hostname & protocol for your site
 footer_text: 'techess@mit.edu'
 
 # Admin Settings
