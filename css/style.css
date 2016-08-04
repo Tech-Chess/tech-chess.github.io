@@ -3,16 +3,15 @@
 @import '../_sass/bootstrap';
 @import '../_sass/syntax-highlighting';
 
-
-$scotch-primary: rgb(255, 69, 69);
-$scotch-secondary: #FF7B7B;
+$scotch-primary: #52101a;
+$scotch-secondary: #a31f34;
 
 %oswald { font-family: 'Oswald', sans-serif; }
 %roboto { font-family: 'Roboto Condensed', sans-serif; }
 %lato {font-family: 'Lato', sans-serif; }
 
 body {
-    @extend %roboto;
+    @extend %lato;
     font-size: 18px;
     line-height: 30px;
     padding-top: 51px;
@@ -33,9 +32,9 @@ a {
 .btn {
     text-transform: uppercase;
     font-weight: 400;
-    @extend %oswald;
+    @extend %lato;
 }
-h1, h2, h3, h4, h5, h6 { @extend %oswald; }
+h1, h2, h3, h4, h5, h6 { @extend %lato; }
 ::selection {
     background: #086AFF;
     color: #fff;
