@@ -1,12 +1,9 @@
 # Site Settings
 title: 'Tech Chess'
-description: 'Techess is the official chess club of MIT.'
+description: 'Tech Chess is the chess club of MIT.'
 url: 'http://tech-chess.github.io' # the base hostname & protocol for your site
-footer_text: 'contact: techess@mit.edu'
+footer_text: 'techess@mit.edu'
 
-# Admin Settingsf
-admin_name: 'Andy Trattner'
-admin_email: 'techess-vp@mit.edu'
-
-# Images
-logo-transparent: /img/techess_transparent.png "Techess Logo (transparent)"
+# Admin Settings
+admin_name: 'Tech Chess Exec'
+admin_email: 'techess-exec@mit.edu'
