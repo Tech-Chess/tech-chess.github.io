@@ -4,7 +4,7 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-<h1 style="color:#cdffff;text-align:center;" markdown="1">
+<h1 id="platinum" style="color:#cdffff;text-align:center;" markdown="1">
   PLATINUM
 </h1>
 
