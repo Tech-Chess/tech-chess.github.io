@@ -8,13 +8,16 @@ permalink: /sponsors/
   PLATINUM
 </h1>
 
+
 <h1 style="color:#ffb900;text-align:center;" markdown="1">
   GOLD
 </h1>
 
+
 <h1 style="color:#d0d0d0;text-align:center;" markdown="1">
   SILVER
 </h1>
+
 
 <h1 style="color:#e78000;text-align:center;" markdown="1">
   BRONZE
