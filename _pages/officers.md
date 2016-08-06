@@ -3,7 +3,6 @@ layout: inner
 title: Officers
 permalink: /officers/
 ---
-<p style="text-align: center;" markdown="1">
 
 ## President
 Alexander Katz, International Master
@@ -21,5 +20,3 @@ Amir Cohen
 Kushan Tyagi
 
 Oz Rabinovitch
-
-</p>
