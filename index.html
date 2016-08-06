@@ -7,16 +7,27 @@ layout: home
 </p>-->
 
 <p style="text-align: center;" markdown="1">
-  <img src="img/techess_transparent.png" style="width:100%;"/>
+  <img src="img/techess_transparent.png" style="width:100%; padding-top: 50px;"/>
 </p>
 
 <h1 style="text-align: center;" markdown="1">
   Welcome to the official chess club of MIT!
+  <br>
+  <br>
 </h1>
 
 <p style="text-align: center;" markdown="1">
   <button href="
   https://mailman.mit.edu:444/mailman/listinfo/tech-chess-announce">Subscribe to Mailing List</button>
+  <br>
 </p>
 
 <div style="text-align: center;" class="fb-page" data-href="https://www.facebook.com/mitchessclub" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mitchessclub" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mitchessclub">MIT Chess Club</a></blockquote></div>
+
+<div class="col-md-12">
+    {% for post in paginator.posts %}
+        {% include tile.html %}
+    {% endfor %}
+
+    {% include pagination.html %}
+</div>
