@@ -3,7 +3,6 @@ layout: inner
 title: About
 permalink: /about/
 ---
-
 #Vision statement
 We are a community of chess enthusiasts at MIT who enjoy one another’s company and encourage others to join in the fun, promoting an atmosphere of lifelong learning!
 

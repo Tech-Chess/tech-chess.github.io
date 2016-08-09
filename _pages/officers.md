@@ -5,19 +5,23 @@ permalink: /officers/
 ---
 
 ## President
-Alexander Katz, International Master _[techess-prez@mit.edu](mailto:techess-prez@mit.edu)_
+Alexander Katz, International Master
+_[techess-prez](mailto:techess-prez@mit.edu)_
 
 
 ## Vice President
-Andy Trattner [techess-vp@mit.edu](mailto:techess-vp@mit.edu)
+Andy Trattner
+_[techess-vp](mailto:techess-vp@mit.edu)_
 
 ## Treasurer
 Jonah Butler
+_[techess-fin](mailto:techess-fin@mit.edu)_
 
 ## Publicity Chair
 Amir Cohen
+_[techess-pub](mailto:techess-pub@mit.edu)_
 
 ## Committee
 Kushan Tyagi
-
 Oz Rabinovitch
+_[techess-exec](mailto:techess-exec@mit.edu)_
