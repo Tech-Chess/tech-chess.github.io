@@ -5,10 +5,11 @@ permalink: /officers/
 ---
 
 ## President
-Alexander Katz, International Master
+Alexander Katz, International Master _[techess-prez@mit.edu](mailto:techess-prez@mit.edu)_
+
 
 ## Vice President
-Andy Trattner
+Andy Trattner [techess-vp@mit.edu](mailto:techess-vp@mit.edu)
 
 ## Treasurer
 Jonah Butler

@@ -2,8 +2,12 @@
 title: 'Tech Chess'
 description: 'The official chess club of MIT.'
 url: 'https://tech-chess.github.io' # the base hostname & protocol for your site
-footer_text: 'Copyright © <a href="mailto:techess-exec@mit.edu">MIT Chess Club</a> 2016'
+footer_text: 'Copyright © <a href="mailto:techess-exec@mit.edu" target="_blank">MIT Chess Club</a> 2016'
 
 # Admin Settings
 admin_name: 'Tech Chess Exec'
 admin_email: 'techess-exec@mit.edu'
+
+# Links
+team_link: 'https://tech-chess.github.io/team'
+officers_link: 'https://tech-chess.github.io/officers'
