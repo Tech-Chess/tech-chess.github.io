@@ -1,16 +1,33 @@
 ---
 layout: inner
 title: 'Welcome Prefrosh'
+author: 'Andy Trattner'
 date: 2016-08-23 10:26:00
 categories: announcements
+featured_image: 'img/cover-photo.jpg'
 tags: background prefrosh plans meta
 lead_text: 'The dawn of a new chess era at MIT!'
 ---
 
-talking about the background of the chess club and the opportunities this year! how to use this site.
+We are so excited to welcome all students back for the 2016-2017 academic year! This is going to be an important and historic year for chess at MIT.
 
-Steve Austin: Astronaut. A man barely alive. Gentlemen... we can rebuild him. We have the technology. We have the capability to make the world's first bionic man. Steve Austin will be that man. Better than he was before. Better. Stronger. Faster.
+# A Brief History of Chess at MIT
+The history of chess predates MIT's founding by more than 1,000 years. Since ancient times, the "Game of Kings" (and queens!?) has been the pinnacle of intellectual and strategic pursuit. With [mathematical rules](http://www.math.harvard.edu/~elkies/knight.pdf) and players such as [Einstein](http://www.chessgames.com/player/albert_einstein.html), it is no wonder that this game of [perfect information](http://mathworld.wolfram.com/Chess.html) has attracted MIT students and professors since the very beginning!
 
-My name is Rhoda Morgenstern. I was born in the Bronx, New York in December of 1941. I've always felt responsible for World War II. The first thing I remember liking that liked me back was food. I had a bad puberty; it lasted seventeen years. I'm a high school graduate. I went to art school. My entrance exam was on a book of matches. I decided to move out of the house when I was twenty-four. My mother still refers to this as the time I ran away from home. Eventually, I ran to Minneapolis, where it's cold and I figured I'd keep better. Now I'm back in Manhattan. New York, this is your last chance!
+In the late 1700s, the original [Mechanical Turk](https://en.wikipedia.org/wiki/The_Turk) (not to be confused with [Amazon's version](https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk)) was [scaring people](http://www.slate.com/blogs/atlas_obscura/2015/08/20/the_turk_an_supposed_chess_playing_robot_was_a_hoax_that_started_an_early.html) with its surprisingly powerful "artificial intelligence". Fast-forwarding a couple hundred years, "In 1962 the first MIT chess program was written. It was the first chess program that played regular chess credibly. It was written by Alan Kotok for his B.S. thesis project, assisted by John McCarthy of Stanford. The program ran on an IBM 7090, looking at 1100 positions per second" &ndash; [chess.com](https://www.chess.com/article/view/computers-and-chess---a-history), [TBS Magazine](http://www.thebestschools.org/magazine/brief-history-of-computer-chess/).
 
-Dr. David Banner: physician; scientist. Searching for a way to tap into the hidden strengths that all humans have... then an accidental overdose of gamma radiation alters his body chemistry. And now when David Banner grows angry or outraged, a startling metamorphosis occurs. The creature is driven by rage and pursued by an investigative reporter. The creature is wanted for a murder he didn't commit. David Banner is believed to be dead, and he must let the world think that he is dead, until he can find a way to control the raging spirit that dwells within him.
+MIT has had its fair share of human talent to supplement the silicon. Back in 1966 and 1970, MIT won the [Pan-American Intercollegiate Chess Championship](https://en.wikipedia.org/wiki/Pan_American_Intercollegiate_Team_Chess_Championship) and more recently, the chess club was [featured in the Tech](http://tech.mit.edu/V123/N10/Chess_clup_fea_.10f.html) for its match against Caltech and its top college honors at the US Amateur East. Recent notable student players have included [IM Steven Zierk](https://en.wikipedia.org/wiki/Steven_Zierk), [WIM Katrine Tj&#248;lsen](https://no.wikipedia.org/wiki/Katrine_Tj%C3%B8lsen), and our very own Tech Chess President, [IM Alexander Katz](https://ratings.fide.com/card.phtml?event=2039796). [GM Maurice Ashley](https://www.media.mit.edu/people/mashley) is working with the [MIT Media Lab for Millionaire Chess](http://directorsfellows.media.mit.edu/projects/deep-view-algorithm-enhances-chess-commentary/).
+
+# What's new this year?
+The MIT Chess Club re-branded as Tech Chess in the spring semester of 2016, under the new club [leadership](/officers). We will continue to host weekly casual hangouts and tournaments each semester, and we are growing a team to compete in the US Amateur East and Pan-American Intercollegiate Championship. To warm up, we will be holding exhibition matches against local schools and maybe inviting some grandmasters to give lectures or simuls.
+
+We are currently in the process of obtaining sponsorship and planning out the year. Probably the most exciting part of the year will be your ability to get involved with the club and shape its future! Because we are so young, there is a lot of opportunity for influencing Tech Chess's growth.
+
+Want to help us manage sponsor relations? Make/buy [fun stuff](http://coolmaterial.com/cool-list/12-bad-ass-chess-sets/)? Travel to Parsippany? Run a chess tournament? Build a website? Learn the bishop + knight checkmate from an International Master? Email us or show up at an event and say hi!
+
+# What should I do?
+- Subscribe to our [mailing list](https://mailman.mit.edu:444/mailman/listinfo/tech-chess-announce) below.
+- Like our [Facebook page](https://www.facebook.com/mitchessclub).
+- Come to our next [events](/events) (and add to your google calendar)!
+
+Looking forward to meeting you over the course of the year!
