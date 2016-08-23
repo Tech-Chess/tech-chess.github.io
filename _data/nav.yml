@@ -1,6 +1,6 @@
 main:
     - { url: '/about', text: 'About' }
-    - { url: '/blog', text: 'Blog' }
+    - { url: '/', text: 'Blog' }
     - { url: '/contact', text: 'Contact' }
     - { url: '/events', text: 'Events' }
     - { url: '/officers', text: 'Officers' }
