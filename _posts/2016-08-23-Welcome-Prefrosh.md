@@ -4,7 +4,6 @@ title: 'Welcome Prefrosh'
 date: 2016-08-23 10:26:00
 categories: announcements
 tags: background prefrosh plans meta
-featured_image: ''
 lead_text: 'The dawn of a new chess era at MIT!'
 ---
 
