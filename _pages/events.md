@@ -4,12 +4,14 @@ title: Events
 permalink: /events/
 ---
 
+# This Week
 
-  <iframe src="https://calendar.google.com/calendar/embed?src=pvbd80pkmfsl5voauue4vbv61c%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no" markdown="1"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;mode=WEEK&amp;height=400&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=pvbd80pkmfsl5voauue4vbv61c%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no" markdown="1"></iframe>
 
-<p style="text-align:center;" markdown="1">
+# Upcoming
 
-  <iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=pvbd80pkmfsl5voauue4vbv61c%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=pvbd80pkmfsl5voauue4vbv61c%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FNew_York" style="border-width:0; text-align:center;" width="100%" height="600" frameborder="0" scrolling="no" markdown="1"></iframe>
 
 
-</p>
+## Suggestions?
+Email us an event idea!
