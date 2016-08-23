@@ -6,6 +6,13 @@
                 <div class="col-md-10 col-md-offset-1">
                     {{ content }}
                 </div>
+                <div class="col-md-10 col-md-offset-1">
+                  {% for post in paginator.posts %}
+                      {% include tile.html %}
+                  {% endfor %}
+
+                  {% include pagination.html %}
+                </div>
             </div>
         </div>
     </article>

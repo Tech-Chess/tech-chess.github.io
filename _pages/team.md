@@ -3,20 +3,25 @@ layout: inner
 title: Team
 permalink: /team/
 ---
-#Board 1
+## Board 1
 IM Alexander Katz
 
-#Board 2
+## Board 2
 Kushan Tyagi
 
-#Board 3
+## Board 3
 Andy Trattner
 
-#Board 4
+## Board 4
 Jonah Butler
 
-#Board 5
+## Board 5
 Amir Cohen
 
-#Join Us!
-Interested in joining our team? Email [techess-exec@mit.edu](mailto:techess-exec@mit.edu).
+## Reserve
+Everyone else!
+
+### Join Us!
+Interested in joining our team? Email [techess-exec@mit](mailto:techess-exec@mit.edu).
+
+We usually host tryouts each fall.

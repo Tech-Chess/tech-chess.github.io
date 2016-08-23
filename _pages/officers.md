@@ -25,3 +25,7 @@ _[techess-pub](mailto:techess-pub@mit.edu)_
 Kushan Tyagi
 Oz Rabinovitch
 _[techess-exec](mailto:techess-exec@mit.edu)_
+
+
+### Join us!
+We hold elections according to our club constitution every December. If you would like to get involved, please [email us](mailto:techess-exec@mit.edu)!
