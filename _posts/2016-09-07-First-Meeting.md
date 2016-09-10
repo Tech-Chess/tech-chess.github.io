@@ -45,4 +45,4 @@ Master-level player Kushan Tyagi doesn't always play chess, but when he does, he
 
 ### Director of Strategy
 
-Oz is a second-year MBA at the Sloan School of Management. ALong with Amir, his love of chess has carried over to America from Israel.
+Oz is a second-year MBA at the Sloan School of Management. His brand is so strong, he needs no last name. Along with Amir, his love of chess has carried over to America from Israel. 
