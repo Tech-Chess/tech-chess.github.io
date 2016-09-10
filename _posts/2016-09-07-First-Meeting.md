@@ -35,7 +35,7 @@ Andy Trattner has decided to picture himself here with an airplane because why n
 
 Treasurer Jonah Butler faces down Public Relations and Publicity Officer Amir Cohen. You can tell their positions by facial expression.
 
-<img src="/img/hangout/9-7-16/plane.jpg" title="death stare" alt="death stare" style="width: 100%;"/>
+<img src="/img/hangout/9-7-16/death-stare.jpg" title="death stare" alt="death stare" style="width: 100%;"/>
 
 Jonah is giving Amir the death stare to see how much money he can make, while Amir is like "bro, just take it easy man. I like you, you like me, happy feelings all around, you know?"
 
