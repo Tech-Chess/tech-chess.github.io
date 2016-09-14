@@ -2,7 +2,7 @@
 layout: inner
 title: 'Harold Dondis Memorial'
 author: 'Alexander Katz'
-date: 2016-09-14 21:00:00
+date: 2016-09-14 19:50:00
 categories: casual
 featured_image: 'img/Trattner v Abdi R2 Dondis Memorial PhotoSteve Stepak.JPG'
 tags: bcc
