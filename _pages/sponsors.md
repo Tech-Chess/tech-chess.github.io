@@ -22,3 +22,5 @@ permalink: /sponsors/
 <h4 style="color:#e78000;text-align:center;padding-top:35px;" markdown="1">
   PATZER
 </h4>
+
+<img src="/img/sponsor/JaneStreet_1.jpeg" style="width:100%;" markdown="1">
