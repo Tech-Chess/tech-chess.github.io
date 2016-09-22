@@ -1,0 +1,33 @@
+{% include header.html %}
+
+    {% include title-group.html %}
+
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    {{ content }}
+
+                    <script>
+                    var init = function() {
+
+                    //--- start example JS ---
+                    var board2 = ChessBoard('board2', {
+                      draggable: true,
+                      dropOffBoard: 'trash',
+                      sparePieces: true
+                    });
+                    $('#startBtn').on('click', board2.start);
+                    $('#clearBtn').on('click', board2.clear);
+                    //--- end example JS ---
+
+                    }; // end init()
+                    $(document).ready(init);
+                    </script> -->
+
+                </div>
+            </div>
+        </div>
+    </article>
+
+{% include footer.html %}
