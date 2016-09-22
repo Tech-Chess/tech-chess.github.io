@@ -47,13 +47,24 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="{{ site.data.global.url }}/css/style.css">
+    <link rel="stylesheet" href="/js/chessboard/css/chessboard-0.3.0.css">
     <!--[if lt IE 9]>
         <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
         <script src="{{ site.data.global.url }}/js/respond.min.js"></script>
     <![endif]-->
 
+
+
 </head>
 <body class="{{ post.title | downcase | replace:' ','-' | replace:',','' | strip_html }}{% if page.category %} category-{{ page.category }}{% endif %}{% if page.layout-class %} layout-{{ page.layout-class }}{% endif %}">
+
+  <!-- Chessboard -->
+  <script src="/js/chessboard/js/chessboard-0.3.0.js"></script>
+
+  <!-- JQUERY -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+  <!-- FACEBOOK INTEGRATION -->
   <script>
     window.fbAsyncInit = function() {
       FB.init({
@@ -70,6 +81,18 @@
        js.src = "//connect.facebook.net/en_US/sdk.js";
        fjs.parentNode.insertBefore(js, fjs);
      }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <!-- GOOGLE ANALYTICS FOR SITE -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84607772-1', 'auto');
+  ga('send', 'pageview');
+
   </script>
 
     <nav class="navbar navbar-inverse navbar-fixed-top">
