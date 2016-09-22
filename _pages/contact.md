@@ -12,6 +12,7 @@ For sponsorship inquiries please email our finance team at [techess-fin@mit.edu]
 
 For general inquiries please contact [techess-exec@mit.edu](mailto: techess-exec@mit.edu).
 
+<!--
 </p>
 
 
@@ -37,4 +38,4 @@ $('#clearBtn').on('click', board2.clear);
 
 }; // end init()
 $(document).ready(init);
-</script>
+</script> -->
