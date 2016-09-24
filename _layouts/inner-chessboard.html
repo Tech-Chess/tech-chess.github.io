@@ -23,7 +23,34 @@
 
                     }; // end init()
                     $(document).ready(init);
-                    </script> -->
+                    </script>
+
+
+                    <script language="JavaScript">
+                    function pgn2fen()
+                    { Init(window.document.forms[0].startfen.value);
+                      SetPgnMoveText(window.document.forms[0].pgn.value);
+                      var ff="", ff_new="", ff_old;
+                      do
+                      { ff_old=ff_new;
+                        MoveForward(1);
+                        ff_new=GetFEN();
+                        if (ff_old!=ff_new) ff+=ff_new+"\n";
+                      }
+                      while (ff_old!=ff_new);
+                      window.document.forms[0].fen.value=ff;
+                    }
+                    </script>
+
+<form>
+Start FEN: <input type=text name="startfen" value="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" size=64><BR>
+PGN move text:<br>
+<textarea name="pgn" cols=80 rows=12></textarea><BR>
+<input type="button" value="convert to fen list" onClick="pgn2fen()"><BR>
+<textarea name="fen" cols=80 rows=12></textarea><BR>
+</form>
+
+
 
                 </div>
             </div>
