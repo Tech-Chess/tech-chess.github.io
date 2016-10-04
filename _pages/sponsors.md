@@ -2,6 +2,7 @@
 layout: inner
 title: Sponsors
 permalink: /sponsors/
+lead_text: 'We thank our generous sponsors for their support.'
 ---
 
 <h1 id="platinum" style="color:#cdffff;text-align:center;" markdown="1">
@@ -24,3 +25,7 @@ permalink: /sponsors/
 </h4>
 
 <img src="/img/sponsor/JaneStreet_1.jpeg" style="width:100%;" markdown="1">
+<br>
+<img src="/img/sponsor/sig.gif" style="width:100%;" markdown="1">
+<br>
+<img src="/img/sponsor/twosigma.jpeg" style="width:100%;" markdown="1">
