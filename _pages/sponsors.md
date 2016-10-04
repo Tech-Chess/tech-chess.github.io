@@ -28,4 +28,4 @@ lead_text: 'We thank our generous sponsors for their support.'
 <br>
 <img src="/img/sponsor/sig.gif" style="width:100%;" markdown="1">
 <br>
-<img src="/img/sponsor/twosigma.jpeg" style="width:100%;" markdown="1">
+<img src="/img/sponsor/twosigma.jpg" style="width:100%;" markdown="1">
