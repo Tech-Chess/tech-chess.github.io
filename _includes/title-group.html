@@ -22,7 +22,7 @@
     </h1>
     {% if page.id %}
     <aside>
-        {{ page.date | date: "%m.%d.%y" }}
+        <span>{{ page.date | date: "%m.%d.%y" }}</span>
         {% if page.categories != empty %}
             &middot;
             {% for category in page.categories %}
@@ -31,7 +31,7 @@
         {% endif %}
         {% if page.author != empty %}
             &middot;
-            <span>{{ page.author }}</span>
+            <span>by {{ page.author }}</span>
         {% endif %}
     </aside>
     {% endif %}
