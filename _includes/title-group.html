@@ -29,6 +29,10 @@
                 <span>{{ category }}</span>
             {% endfor %}
         {% endif %}
+        {% if page.author != empty %}
+            &middot;
+            <span>{{ page.author }}</span>
+        {% endif %}
     </aside>
     {% endif %}
     <p class="lead">
