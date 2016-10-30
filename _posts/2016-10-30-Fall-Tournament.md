@@ -30,11 +30,8 @@ MIT Media Lab
 
 Close to the Red Line and Kendall Square for food.
 
-<p style="text-align:center;" markdown="1">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.1633937574825!2d-71.08945268454367!3d42.360356979186875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a8b0f310c5%3A0x1a26a6e6bd5f8030!2sMIT+Media+Lab!5e0!3m2!1sen!2sus!4v1477864807255" width="100%" height="450" frameborder="0" markdown="1" style="border:0" allowfullscreen></iframe>
 
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.1633937574825!2d-71.08945268454367!3d42.360356979186875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a8b0f310c5%3A0x1a26a6e6bd5f8030!2sMIT+Media+Lab!5e0!3m2!1sen!2sus!4v1477864807255" width="600" height="450" frameborder="0" markdown="1" style="border:0" allowfullscreen></iframe>
-
-</p>
 
 # Prizes and Fees
 
@@ -60,7 +57,6 @@ We only accept cash.
 
 You must pay online to register. No unpaid advance registrations allowed.
 
-<p markdown="1" style="text-align:center;">
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" markdown="1" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" markdown="1">
@@ -77,10 +73,5 @@ You must pay online to register. No unpaid advance registrations allowed.
   <img alt="" markdown="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
   </form>
 
-</p>
 
-<p markdown="1" style="text-align:center;">
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="760" height="800" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
-
-</p>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
