@@ -64,9 +64,10 @@ You must pay online to register in advance. The PayPal button below will process
 <input type="hidden" name="hosted_button_id" value="WGFASEJXTURRJ" markdown="1">
 <table markdown="1">
 <tr markdown="1"><td markdown="1"><select name="os0" markdown="1"><option value="Advance Regular Entry" markdown="1"> Advance Regular Entry $25.00 USD </option>
-	<option value="Advance MIT Student Entry (requires kerberos)" markdown="1"> Advance MIT Student Entry (requires kerberos) $15.00 USD </option></select></table>
-<input type="hidden" name="currency_code" markdown="1" value="USD"> <input type="image" markdown="1" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" markdown="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" markdown="1" height="1"/></form>
+	<option value="Advance MIT Student Entry (requires kerberos)" markdown="1"> Advance MIT Student Entry (requires kerberos) $15.00 USD </option></select>
+
+<input type="hidden" name="currency_code" markdown="1" value="USD"> <input type="image" markdown="1" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" markdown="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" markdown="1" height="1"/>
 
 #### Player Information
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="1800" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="1700" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
