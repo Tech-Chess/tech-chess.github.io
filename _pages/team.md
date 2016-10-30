@@ -31,7 +31,7 @@ permalink: /team/
 | R 3   | Bryson Galapon | 1571 |
 | R 4   | Daniel Wang | 1600 |
 
-
+### C
 | C           | Player            | Rating        |
 | ----------- |:-----------------------------------------------------:| -------------:|
 | 1     | Christian Maass | 1550       |
@@ -45,6 +45,8 @@ permalink: /team/
 | R 4   | Bilal Azhar | 600 |
 
 
-
 ### Join Us!
 Interested in joining our team? Email [techess-exec@mit](mailto:techess-exec@mit.edu). We usually host tryouts each fall.
+
+### Rules
+See team rules [here](img/team/teamrules.pdf).
