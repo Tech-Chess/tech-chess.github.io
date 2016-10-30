@@ -59,7 +59,8 @@ You must pay online to register in advance. The PayPal button below will process
 
 #### Player Information
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="1800" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
+
 
 #### Payment
 
