@@ -50,4 +50,4 @@ permalink: /team/
 Interested in joining our team? Email [techess-exec@mit](mailto:techess-exec@mit.edu). We usually host tryouts each fall.
 
 ### Rules
-See team rules [here](img/team/teamrules.pdf).
+See team rules [here](/img/team/teamrules.pdf).
