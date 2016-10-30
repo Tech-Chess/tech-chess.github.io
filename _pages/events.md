@@ -14,4 +14,9 @@ permalink: /events/
 
 
 ## Suggestions?
+
 Email us an event idea!
+
+## Tournament Registration Test
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYe4ZatnuibvzcdUTe7VbeP9yE_pgG7fFBS44UKFsQr1oi7Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
