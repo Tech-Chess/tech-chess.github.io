@@ -17,7 +17,7 @@ Join us for our second tournament hosted at MIT! Last semester's results are lin
 
 9-9:45am Registration and Check-in
 
-Rounds: 10am -- 12:30pm -- 3:30pm -- 6pm
+G60 Rounds: 10am -- 12:30pm -- 3:30pm -- 6pm
 
 
 # Location
@@ -57,11 +57,6 @@ We only accept cash.
 
 You must pay online to register in advance. The PayPal button below will process credit/debit cards. No unpaid advance registrations allowed.
 
-#### Player Information
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
-
-
 #### Payment
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" markdown="1" target="_top">
@@ -70,4 +65,9 @@ You must pay online to register in advance. The PayPal button below will process
 <table markdown="1">
 <tr markdown="1"><td markdown="1"><select name="os0" markdown="1"><option value="Advance Regular Entry" markdown="1"> Advance Regular Entry $25.00 USD </option>
 	<option value="Advance MIT Student Entry (requires kerberos)" markdown="1"> Advance MIT Student Entry (requires kerberos) $15.00 USD </option></select>
+
 <input type="hidden" name="currency_code" markdown="1" value="USD"> <input type="image" markdown="1" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" markdown="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" markdown="1" height="1"/>
+
+#### Player Information
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScid7U_TSodICQAVSq_Z62cOPxCKSWVDzV5013lZ05SdlDeXA/viewform?embedded=true" width="100%" height="1650" frameborder="0" marginheight="0" markdown="1" marginwidth="0">Loading...</iframe>
