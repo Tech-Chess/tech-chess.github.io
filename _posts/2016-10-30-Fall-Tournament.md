@@ -55,18 +55,17 @@ We only accept cash.
 
 ## Advance
 
-You must pay online to register. The PayPal button below will process credit/debit cards. No unpaid advance registrations allowed.
+You must pay online to register in advance. The PayPal button below will process credit/debit cards. No unpaid advance registrations allowed.
 
 
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" markdown="1" target="_top">
-
   <input type="hidden" name="cmd" value="_s-xclick" markdown="1">
   <input type="hidden" name="hosted_button_id" value="WGFASEJXTURRJ" markdown="1">
   <table markdown="1">
-  <tr markdown="1"><td markdown="1"><input type="hidden" name="on0" value="rates" markdown="1"> rates </td> </tr>
+  <tr markdown="1"><td markdown="1"><input type="hidden" name="on0" value="rates" markdown="1"> rates </td markdown="1"> </tr>
   <tr markdown="1"><td markdown="1"><select name="os0" markdown="1"><option value="Advance Regular Entry" markdown="1"> Advance Regular Entry $25.00 USD </option>
   	<option value="Advance MIT Student Entry (requires kerberos)" markdown="1"> Advance MIT Student Entry (requires kerberos) $15.00 USD </option></select> </td></tr>
-  <tr markdown="1"><td markdown="1"><input type="hidden" name="on1" markdown="1" value="MIT Kerberos (if student)">MIT Kerberos (if student)</td></tr>
+  <tr markdown="1"><td markdown="1"><input type="hidden" name="on1" markdown="1" value="MIT Kerberos (if student)">MIT Kerberos (if student):
   <tr markdown="1"> <td> <input type="text" name="os1" maxlength="200" markdown="1"> </td> </tr> </table>
   <input type="hidden" name="currency_code" markdown="1" value="USD"> <input type="image" markdown="1" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"> <img alt="" markdown="1" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" markdown="1" height="1"/></form>
 
