@@ -6,18 +6,16 @@ date: 2016-10-30 17:52:00
 categories: events
 featured_image: 'img/tryout/tourney.jpg'
 tags: tournament media lab uscf
-lead_text: 'A rated USCF tournament hosted at the MIT Media Lab on Sunday November 13.'
+lead_text: 'MIT Fall Open!'
 ---
 
-DO NOT SIGN UP HERE YET. WE ARE STILL PLANNING THIS EVENT AND THIS PAGE IS FOR TESTING PURPOSES.
-
-Join us for our second tournament hosted at MIT! Last semester's results are linked [here](http://www.uschess.org/msa/XtblMain.php?201604176202-14538125).
+Join us for our second tournament, hosted at MIT on Sunday, November 13! Last semester's results are linked [here](http://www.uschess.org/msa/XtblMain.php?201604176202-14538125).
 
 # Schedule
 
 9-9:45am Registration and Check-in
 
-G60 Rounds: 10am -- 12:30pm -- 3:30pm -- 6pm
+4SS G/60d5, Rounds: 10am -- 12:30pm -- 3:30pm -- 6pm
 
 
 # Location
@@ -37,21 +35,21 @@ Close to the Red Line and Kendall Square for food.
 
 $700 Total Prize Fund
 
-Open: 200-100-50
+Open: $200-100-50
 
-U1800: 120-60-30
+U1800: $120-60-30
 
-U1400: 80-40-20
+U1400: $80-40-20
 
-Calculation based on 35 entries, adjusted accordingly.
+Calculation based on 35 paid entries, adjusted accordingly.
 
-EF: $25 advance, $30 at door ($10 MIT student discount)
+EF: $25 advance, $30 at door ($10 MIT student discount). Titled players (IM and GM) free.
 
 # Registration
 
 ## At Door
 
-We only accept cash.
+We only accept cash and checks at the door.
 
 ## Advance
 
