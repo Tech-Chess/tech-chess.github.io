@@ -9,7 +9,9 @@ tags: tournament media lab uscf
 lead_text: 'MIT Fall Open!'
 ---
 
-Join us for our second tournament, hosted at MIT on Sunday, November 13! Last semester's results are linked [here](http://www.uschess.org/msa/XtblMain.php?201604176202-14538125).
+Join us for our second tournament, hosted at MIT on Sunday, November 13! Note the beautiful new location at [MIT's Media Lab](https://www.media.mit.edu/about/building).
+
+Last semester's results are linked [here](http://www.uschess.org/msa/XtblMain.php?201604176202-14538125).
 
 # Schedule
 
