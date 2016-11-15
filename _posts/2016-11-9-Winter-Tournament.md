@@ -6,7 +6,7 @@ date: 2016-11-9 19:28:00
 categories: events
 featured_image: 'img/media-lab.jpg'
 tags: tournament media lab uscf
-lead_text: 'A rated USCF tournament hosted at the MIT Media Lab on Sunday November 13.'
+lead_text: 'A rated USCF tournament hosted at the MIT Media Lab on Sunday December 11.'
 ---
 
 Join us for our third tournament, hosted at MIT on Sunday, December 11! Note the beautiful new location at [MIT's Media Lab](https://www.media.mit.edu/about/building).
