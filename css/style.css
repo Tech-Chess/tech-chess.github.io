@@ -29,6 +29,7 @@ a {
 
     &:hover { color: #6165FF; }
 }
+
 .btn {
     text-transform: uppercase;
     font-weight: 400;
