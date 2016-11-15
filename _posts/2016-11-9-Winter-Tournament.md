@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: 'Fall Tournament'
+title: 'Winter Tournament'
 author: 'Andy Trattner'
 date: 2016-11-9 19:28:00
 categories: events
