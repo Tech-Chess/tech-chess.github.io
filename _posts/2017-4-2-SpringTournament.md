@@ -59,6 +59,8 @@ You must pay online to register in advance. The PayPal button below will process
 
 #### Payment
 
+If paying online, you must fill out BOTH the PayPal and the google form information below. If you are planning to pay on-site but want to register online, only fill out the google form.
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
