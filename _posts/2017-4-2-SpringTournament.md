@@ -9,7 +9,7 @@ tags: tournament media lab uscf
 lead_text: 'A rated USCF tournament hosted at the MIT Media Lab on Sunday April 2.'
 ---
 
-Join us for our fourth tournament, hosted at MIT on Sunday, April 2nd! Note the beautiful new location at [MIT's Media Lab](https://www.media.mit.edu/about/building).
+Join us for our fourth tournament, hosted at MIT on Sunday, April 2nd! We will again be hosting the tournament at the beautiful [MIT Media Lab](https://www.media.mit.edu/about/building).
 
 Previous results are linked [here](http://www.uschess.org/datapage/event-search.php?name=&state=ANY&city=&date_from=&date_to=&order=D&minsize=&affil=G6046684&timectl=&mode=Find). Our last tournament was the MIT Winter Open, linked [here](http://www.uschess.org/msa/XtblMain.php?201612110462)!
 
