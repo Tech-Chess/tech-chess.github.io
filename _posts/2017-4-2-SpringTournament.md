@@ -55,7 +55,7 @@ We only accept cash and checks at the door.
 
 ## Advance
 
-You must pay online to register in advance. The PayPal button below will process credit/debit cards. No unpaid advance registrations allowed.
+You must pay online to register in advance. The PayPal button below will process credit/debit cards. No unpaid advance registrations allowed. The advance entry deadline is 11:59:59 PM on Friday, March 31st.
 
 #### Payment
 
