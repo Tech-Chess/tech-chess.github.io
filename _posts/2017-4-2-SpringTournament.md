@@ -56,4 +56,4 @@ We only accept cash and checks at the door.
 
 ## Advance
 
-The advance entry deadline has passed. Please register on-site before 10 AM, or e-mail chess at mit.edu in extraordinary circumstances.
+The advance entry deadline has passed. Please register on-site before 9:45 AM, or e-mail chess at mit.edu in extraordinary circumstances.
