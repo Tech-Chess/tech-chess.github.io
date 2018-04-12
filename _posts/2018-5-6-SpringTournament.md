@@ -4,6 +4,7 @@ title: '2018 Spring tournament'
 author: 'Alexander Katz'
 date: 2018-04-12 01:02:00
 categories: events
+featured_image: 'img/StataCenter.jpg'
 tags: tournament media lab uscf
 lead_text: 'A rated USCF tournament hosted at the MIT Stata Center on Sunday May 6.'
 ---
