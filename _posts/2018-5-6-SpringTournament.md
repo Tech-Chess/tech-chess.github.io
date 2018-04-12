@@ -30,7 +30,7 @@ MIT Stata Center (32 Vassar St)
 
 Close to the Red Line and Kendall Square for food.
 
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.1633937574825!2d-71.08945268454367!3d42.360356979186875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a8b0f310c5%3A0x1a26a6e6bd5f8030!2sMIT+Media+Lab!5e0!3m2!1sen!2sus!4v1477864807255" width="100%" height="450" frameborder="0" markdown="1" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2948.103270026273!2d-71.09285873471573!3d42.36163837918682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e370a95d3025a9%3A0xb1de557289ff6bbe!2sRay+and+Maria+Stata+Center%2C+32+Vassar+St%2C+Cambridge%2C+MA+02139!5e0!3m2!1sen!2sus!4v1523511780729" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 We encourage the use of public transportation, as we cannot guarantee parking availability. Please see our [parking suggestions](chess.mit.edu/parking) if driving is necessary.
 
