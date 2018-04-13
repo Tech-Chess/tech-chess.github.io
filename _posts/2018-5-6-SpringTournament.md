@@ -28,7 +28,7 @@ MIT Stata Center (32 Vassar St)
 
 ### Directions
 
-The tournament site is a short 3-minute walk from the Kendall Square Red Line T-stop. We highly encourage the use of public transportation, as we cannot guarantee parking availability. Please see our [parking suggestions](chess.mit.edu/parking) if driving is necessary.
+The tournament site is a short 3-minute walk from the Kendall Square Red Line T-stop. We highly encourage the use of public transportation, as we cannot guarantee parking availability. Please see our [parking suggestions](http://chess.mit.edu/parking) if driving is necessary.
 
 There are a number of inexpensive food options along Main Ave., and the Stratton Center (Student Center) is about a 10 minute walk from the site.
 
