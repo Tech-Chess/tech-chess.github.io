@@ -4,7 +4,7 @@ title: Parking
 permalink: /parking/
 ---
 
-We cannot guarantee parking for most of our events, and encourage use of public transportation whenever possible. Our tournaments are usually held at the MIT Media Lab, close to the Red Line.
+We cannot guarantee parking for most of our events, and encourage use of public transportation whenever possible. Our tournaments are usually held close to the Kendall Square stop of the Red Line.
 
 That said, we have compiled a list of **potential** parking spots that may be available (some borrowed from [Tech Square](http://www.mit.edu/~tech-squares/directions/parking.html)). Again, we cannot guarantee their availability.
 
