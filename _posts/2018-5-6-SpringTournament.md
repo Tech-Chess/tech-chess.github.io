@@ -52,6 +52,8 @@ EF: $35 advance, $40 at door ($15 MIT student discount). Titled players (IM and 
 
 # Registration
 
+See list of advance entries [here](chess.mit.edu/advanceentries). Please contact us immediately if there are any errors.
+
 ## IMPORTANT: FOR (PARENTS OF) MINORS
 
 If you are a minor planning to play in this event, you **MUST** contact chess (at) mit.edu so that we may provide you with the appropriate forms for your parents/guardian to sign. This can be done at the event as well, but **MUST** be completed prior to beginning play.
