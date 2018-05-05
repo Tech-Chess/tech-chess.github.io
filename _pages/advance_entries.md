@@ -25,7 +25,7 @@ Eric Feng
 Lawyer Times (rd1 bye)  
 Timothy Sage   
 Jerry Li    
-Maxwell Chen    
+Maxwell Chen (rd4 bye)    
 
 U1800:    
 Daniel Wang    
