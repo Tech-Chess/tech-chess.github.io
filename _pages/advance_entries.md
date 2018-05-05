@@ -22,7 +22,8 @@ Srikanth Rapaka
 Brian Salomon    
 Kevin Lu    
 Eric Feng    
-Lawyer Times (rd1 bye)    
+Lawyer Times (rd1 bye)  
+Timothy Sage    
 
 U1800:    
 Daniel Wang    
@@ -37,6 +38,7 @@ Mendel Keller
 Yue Huang    
 Arjun Girish    
 Julian Wellman (rd3 bye)    
+Henry He
 
 U1400:    
 Rishabh Chandra    
