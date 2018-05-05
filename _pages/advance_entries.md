@@ -4,7 +4,7 @@ title: Advance Entries
 permalink: /advanceentries/
 ---
 
-Advance entries for MIT Spring Open 2018 are posted below. **CONTACT chess (at) mit.edu IMMEDIATELY IF THERE ARE ANY ERRORS**. In particular, if you have registered **on or before 5/4** and do not see your name below, you are placed in the wrong section, or you are taking a bye that is not listed here, contact us immediately.
+Advance entries for MIT Spring Open 2018 are posted below. **CONTACT chess (at) mit.edu IMMEDIATELY IF THERE ARE ANY ERRORS**. In particular, if you have registered **on or before 11 AM 5/5** and do not see your name below, you are placed in the wrong section, or you are taking a bye that is not listed here, contact us immediately.
 
 Open:    
 Bryson Galapon    
@@ -23,7 +23,9 @@ Brian Salomon
 Kevin Lu    
 Eric Feng    
 Lawyer Times (rd1 bye)  
-Timothy Sage    
+Timothy Sage   
+Jerry Li    
+Maxwell Chen    
 
 U1800:    
 Daniel Wang    
@@ -51,3 +53,4 @@ Jericho Carlson
 Prachi Dayal    
 Joanne Zhou (rd1 bye)    
 Raeann Zhou    
+Leonard Sweeney-Barrett    
