@@ -49,5 +49,5 @@ Paul Tompros
 Suhavi Tiruveedhula    
 Jericho Carlson    
 Prachi Dayal    
-Joanne Zhou (rd1 bye)
+Joanne Zhou (rd1 bye)    
 Raeann Zhou    
