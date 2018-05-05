@@ -64,27 +64,13 @@ We only accept cash and checks at the door.
 
 ## Advance
 
-You must pay online to register in advance. The PayPal button below will process credit/debit cards. Unpaid advance registrations allowed ONLY in extraordinary circumstances; contact chess (at) mit.edu to request an exception. The advance entry deadline is 11:59:59 PM on Friday, May 4th.
-
-To register online, you must fill out BOTH the PayPal and the google form information below. **IF YOU ONLY FILL OUT THE PAYPAL, YOU MAY NOT BE PAIRED ROUND 1**.
+Advance entries are now closed. Please register on-site or contact chess (at) mit.edu in extreme circumstances.
 
 #### Payment
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<table>
-<tr><td><input type="hidden" name="on0" value="Advance Entry">Advance Entry</td></tr><tr><td><select name="os0">
-	<option value="Regular entry">Regular entry $35.00 USD</option>
-	<option value="MIT entry (requires kerberos)">MIT entry (requires kerberos) $20.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
-">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+Advance entries are now closed. Please register on-site or contact chess (at) mit.edu in extreme circumstances.
 
 
 #### Player information
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSec1pwuRgCZKHBk9R7zqJhd-p17uK-xtuWZKXZ_EYL5IgCJYg/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Advance entries are now closed. Please register on-site or contact chess (at) mit.edu in extreme circumstances.
