@@ -20,7 +20,7 @@ _[techess-fin](mailto:techess-fin@mit.edu)_
 
 ## Officer of meetings
 Mendel Keller
-_[techess-pub](mailto:techess-meetings@mit.edu)_
+_[techess-meet](mailto:techess-meet@mit.edu)_
 
 
 ### Join us!
