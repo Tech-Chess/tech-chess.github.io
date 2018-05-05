@@ -20,7 +20,7 @@ Alexander Meng
 Joaquin Carlson    
 Srikanth Rapaka    
 Brian Salomon    
-Kevin Lu    
+Kevin Lu (rd3 bye)    
 Eric Feng    
 Lawyer Times (rd1 bye)  
 Timothy Sage   
