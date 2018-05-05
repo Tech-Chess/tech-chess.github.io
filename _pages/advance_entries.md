@@ -20,6 +20,7 @@ Alexander Meng
 Joaquin Carlson    
 Srikanth Rapaka    
 Brian Salomon    
+Kevin Lu    
 
 U1800:    
 Daniel Wang    
