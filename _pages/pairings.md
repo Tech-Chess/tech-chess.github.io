@@ -13,4 +13,4 @@ permalink: /pairings/
 [U1800 standings - after round 3](https://docs.google.com/viewer?url=https://github.com/Tech-Chess/tech-chess.github.io/raw/master/pdfs/U1800WallChartRd3.pdf) 
 
 [U1400 pairings - round 4](https://docs.google.com/viewer?url=https://github.com/Tech-Chess/tech-chess.github.io/raw/master/pdfs/U1400Rd4.pdf)    
-[U1400 standings - round 3](https://docs.google.com/viewer?url=https://github.com/Tech-Chess/tech-chess.github.io/raw/master/pdfs/U1400WallChartRd3.pdf)
+[U1400 standings - FINAL](https://docs.google.com/viewer?url=https://github.com/Tech-Chess/tech-chess.github.io/raw/master/pdfs/U1400FinalStandings.pdf)
