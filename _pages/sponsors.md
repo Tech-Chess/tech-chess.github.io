@@ -20,6 +20,8 @@ lead_text: 'We thank our generous sponsors for their support.'
 </h3>
 <img src="/img/sponsor/JaneStreet_1.jpeg" style="width:100%;" markdown="1">
 <br>
+<img src="/img/sponsor/citadel.jpg" style="width:100%;" markdown="1">
+<br>
 
 <h4 style="color:#e78000;text-align:center;padding-top:35px;" markdown="1">
   AMATEUR
