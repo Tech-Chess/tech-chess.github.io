@@ -22,6 +22,7 @@ _[techess-meet](mailto:techess-meet@mit.edu)_
 
 ## Officers in Training
 Tyrone Davis III '22
+<br>
 Gary Nguyen '22
 
 ### Join us!
