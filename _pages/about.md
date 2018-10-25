@@ -22,6 +22,7 @@ We hosted several successful events in the spring of 2016, including a chess tou
 - 2017: reach out to other schools in Boston area for exhibition matches, invite grandmasters to lecture
 - 2018: continue competitive play, building officer community, recruiting for team, create local college league
 - 2019: expand successful programs to offer library and school outreach, continue competition and community gatherings
+- 2020: Have an online chess tournament/league open to the MIT community
 
 # Inventory and Resources
 - [Constitution](https://drive.google.com/file/d/0B5Tfw9EUMk1wUm5ScV9GQkNUMHc/view?usp=sharing)
