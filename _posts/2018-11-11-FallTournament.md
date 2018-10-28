@@ -6,7 +6,7 @@ date: 2018-10-27 11:20:00
 categories: events
 featured_image: 'img/ChessStata.jpg'
 tags: tournament stata uscf
-lead_text: 'A rated USCF tournament hosted at the MIT Stata Center on Monday November 11.'
+lead_text: 'A rated USCF tournament hosted at the MIT Stata Center on Sunday November 11.'
 ---
 
 Join us for our sixth tournament, hosted at MIT on Sunday, November 11th! We will be hosting the tournament at the beautiful [MIT Stata Center](https://en.wikipedia.org/wiki/Ray_and_Maria_Stata_Center).
