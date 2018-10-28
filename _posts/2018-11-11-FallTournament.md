@@ -1,6 +1,6 @@
 ---
 layout: inner
-title: '2018 Fall tournament'
+title: '2018 Fall Tournament'
 author: 'Tyrone Davis III'
 date: 2018-10-27 11:20:00
 categories: events
