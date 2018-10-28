@@ -54,10 +54,6 @@ EF: $25 advance, $30 at door ($10 MIT student discount). Titled players (IM and 
 
 Will open Monday October 29, 2018.
 
-## IMPORTANT: FOR (PARENTS OF) MINORS
-
-If you are a minor planning to play in this event, you **MUST** contact chess (at) mit.edu so that we may provide you with the appropriate forms for your parents/guardian to sign. This can be done at the event as well, but **MUST** be completed prior to beginning play.
-
 ## At Door
 
 We only accept cash and checks at the door.
