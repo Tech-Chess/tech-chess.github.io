@@ -6,10 +6,10 @@ date: 2018-10-27 11:20:00
 categories: events
 featured_image: 'img/ChessStata.jpg'
 tags: tournament stata uscf
-lead_text: 'A rated USCF tournament hosted at the MIT Stata Center on Sunday November 11.'
+lead_text: 'A rated USCF tournament hosted at the MIT Stata Center on Monday November 12.'
 ---
 
-Join us for our sixth tournament, hosted at MIT on Sunday, November 11th! We will be hosting the tournament at the beautiful [MIT Stata Center](https://en.wikipedia.org/wiki/Ray_and_Maria_Stata_Center).
+Join us for our sixth tournament, hosted at MIT on Monday, November 12th! We will be hosting the tournament at the beautiful [MIT Stata Center](https://en.wikipedia.org/wiki/Ray_and_Maria_Stata_Center).
 
 Previous results are linked [here](http://www.uschess.org/datapage/event-search.php?name=&state=ANY&city=&date_from=&date_to=&order=D&minsize=&affil=G6046684&timectl=&mode=Find). Our last tournament was the 2018 MIT Spring Open, linked [here](http://www.uschess.org/msa/XtblMain.php?201805061332)!
 
@@ -17,7 +17,7 @@ Previous results are linked [here](http://www.uschess.org/datapage/event-search.
 
 9-9:45am Registration and Check-in
 
-4SS G/25d5, Rounds: 10am -- 11:20am -- 1:00pm -- 2:20pm -- 3:40pm
+4SS G/25d5, Rounds: 10am -- 11:15am -- 1:00pm -- 2:20pm -- 3:40pm
 
 
 # Location
@@ -46,9 +46,9 @@ U1800: $120-60-30
 
 U1400: $80-40-20
 
-Calculation based on 35 paid entries, adjusted accordingly.
+Calculation based on 50 paid entries, adjusted accordingly.
 
-EF: $35 advance, $40 at door ($15 MIT student discount). Titled players (IM and GM) free.
+EF: $25 advance, $30 at door ($10 MIT student discount). Titled players (IM and GM) free.
 
 # Registration
 
