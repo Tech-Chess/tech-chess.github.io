@@ -4,7 +4,7 @@ title: '2018 Fall Tournament'
 author: 'Tyrone Davis III'
 date: 2018-10-27 11:20:00
 categories: events
-featured_image: 'img/ChessStata.jpg'
+featured_image: 'img/StataCenter.jpg'
 tags: tournament stata uscf
 lead_text: 'A rated USCF tournament hosted at the MIT Stata Center on Monday November 12.'
 ---
@@ -17,7 +17,7 @@ Previous results are linked [here](http://www.uschess.org/datapage/event-search.
 
 9-9:45am Registration and Check-in
 
-4SS G/25d5, Rounds: 10am -- 11:15am -- 1:00pm -- 2:20pm -- 3:40pm
+4SS G/25d5, Rounds: 10am -- 11:15am -- 1:00pm -- 2:20pm
 
 
 # Location
@@ -45,6 +45,8 @@ Open: $200-100-50
 U1800: $120-60-30
 
 U1400: $80-40-20
+
+Unrated: $
 
 Calculation based on 50 paid entries, adjusted accordingly.
 
