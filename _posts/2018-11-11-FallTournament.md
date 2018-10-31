@@ -52,8 +52,29 @@ EF: $25 advance, $30 at door ($10 MIT student discount). Titled players (IM and 
 
 # Registration
 
-Will open Monday October 29, 2018.
-
 ## At Door
 
 We only accept cash and checks at the door.
+
+## Advance
+
+You must pay online to register in advance. The PayPal button below will process credit/debit cards. Unpaid advance registrations allowed ONLY in extraordinary circumstances; contact chess (at) mit.edu to request an exception. The advance entry deadline is 11:59:59 PM on Friday, May 4th.
+
+To register online, you must fill out BOTH the PayPal and the google form information below. **IF YOU ONLY FILL OUT THE PAYPAL, YOU MAY NOT BE PAIRED ROUND 1**.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<table>
+<tr><td><input type="hidden" name="on0" value="Advance Entry">Advance Entry</td></tr><tr><td><select name="os0">
+	<option value="Regular Entry">Regular Entry $25.00 USD</option>
+	<option value="MIT entry (requires kerberos)">MIT entry (requires kerberos) $15.00 USD</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPUTz6slAB5M3T9wiEYkwusnPC1MLpOy5K83QazkrXuHiPIg/viewform?embedded=true" width="640" height="1786" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
