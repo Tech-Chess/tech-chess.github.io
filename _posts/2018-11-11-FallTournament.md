@@ -58,7 +58,7 @@ We only accept cash and checks at the door.
 
 ## Advance
 
-You must pay online to register in advance. The PayPal button below will process credit/debit cards. Unpaid advance registrations allowed ONLY in extraordinary circumstances; contact chess (at) mit.edu to request an exception. The advance entry deadline is 11:59:59 PM on Friday, May 4th.
+You must pay online to register in advance. The PayPal button below will process credit/debit cards. Unpaid advance registrations allowed ONLY in extraordinary circumstances; contact chess (at) mit.edu to request an exception. The advance entry deadline is 11:59:59 PM on Saturday, November 10th.
 
 To register online, you must fill out BOTH the PayPal and the google form information below. **IF YOU ONLY FILL OUT THE PAYPAL, YOU MAY NOT BE PAIRED ROUND 1**.
 
