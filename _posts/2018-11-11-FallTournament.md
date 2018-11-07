@@ -36,7 +36,7 @@ There are a number of inexpensive food options along Main Ave., and the Stratton
 
 # FREE Citadel Giveaway!!!
 
-We will be giving away free swag from our Sponsor [Citadel] (https://www.citadel.com).
+We will be giving away free swag from our Sponsor [Citadel](https://www.citadel.com).
 
 Giveaways include jackets, water bottles and notebooks, etc.
 
