@@ -36,22 +36,22 @@ There are a number of inexpensive food options along Main Ave., and the Stratton
 
 # FREE Citadel Giveaway!!!
 
-We will be giving away free swag from our Sponsor [Citadel](https://www.citadel.com).
+We will be giving away free swag from our sponsor [Citadel](https://www.citadel.com)!
 
-Giveaways include jackets, water bottles and notebooks, etc.
+Giveaways include jackets, water bottles, and notebooks.
 
 
 # Prizes and Fees
 
 $700 Total Prize Fund
 
-Open: $200-100-50
+Open: 1st: $200 2nd: $100 3rd: $50
 
-U1800: $120-60-30
+U1800: 1st: $120 2nd: $60 3rd: $30
 
-U1400: $80-40-20
+U1400: 1st: $80 2nd: $40 3rd: $20
 
-Unrated: $
+Unrated: 1st: 2/3 of total entry fees in the section; 2nd: 1/3 of total entry fees
 
 Calculation based on 50 paid entries, adjusted accordingly.
 
