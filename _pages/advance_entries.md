@@ -9,25 +9,25 @@ Advance entries for MIT Fall Rapid 2018 are posted below. **CONTACT chess (at) m
 Please note that we may merge sections as necessary depending on turnout.
 
 Open:    
-Anton Barash
-Justin Cha
-William Kelleher (rd1 bye)
-Dustin Liang
-Kevin Lu
-Daniel Sutton
-Tony Wang
-Richard Yi
+Anton Barash    
+Justin Cha    
+William Kelleher (rd1 bye)    
+Dustin Liang    
+Kevin Lu    
+Daniel Sutton    
+Tony Wang    
+Richard Yi    
 
 U1800:    
 Alencastre Mirand
 
 U1400:    
 Rishabh Chandra    
-Daniel Cohen
-Maya Figelman
-Jayaraman Thangappan
-Joanne Zhou
-Raeann Zhou
+Daniel Cohen    
+Maya Figelman    
+Jayaraman Thangappan    
+Joanne Zhou    
+Raeann Zhou    
 
-Unrated:
+Unrated:    
 David Figelman
