@@ -2,11 +2,11 @@
 title: 'Tech Chess'
 description: 'The official chess club of MIT.'
 url: 'https://tech-chess.github.io' # the base hostname & protocol for your site
-footer_text: ' <br>&mdash;<br><i>Copyright © <a href="mailto:techess-exec@mit.edu" target="_blank">MIT Chess Club</a> 2018 <br> <a href="http://mailman.mit.edu/mailman/listinfo/tech-chess-announce" target="_blank">subscribe</a> to mailing list <br> <a href="/img/sponsor/SponsorTechChess.pdf" target="_blank">sponsor</a> us </i>'
+footer_text: ' <br>&mdash;<br><i>Copyright © <a href="mailto:chess-exec@mit.edu" target="_blank">MIT Chess Club</a> 2019 <br> <a href="http://mailman.mit.edu/mailman/listinfo/tech-chess-announce" target="_blank">subscribe</a> to mailing list <br> <a href="/img/sponsor/sponsorship_proposal.pdf" target="_blank">sponsor</a> us </i>'
 
 # Admin Settings
 admin_name: 'Tech Chess Exec'
-admin_email: 'techess-exec@mit.edu'
+admin_email: 'chess-exec@mit.edu'
 
 # Links
 team_link: 'https://tech-chess.github.io/team'
