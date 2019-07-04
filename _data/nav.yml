@@ -1,7 +1,7 @@
 main:
     - { url: '/', text: 'Home' }
     - { url: '/about', text: 'About' }
-    - { url: '/events', text: 'Events' }
+#    - { url: '/events', text: 'Events' }
     - { url: '/team', text: 'Team' }
     - { url: '/officers', text: 'Officers' }
     - { url: '/sponsors', text: 'Sponsors' }
