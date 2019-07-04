@@ -18,8 +18,7 @@ _[chess-fin](mailto:chess-fin@mit.edu)_
 
 ## Officer of Meetings
 Mendel Keller '19
-_[chess-meet](mailto:chess-meet@mit.edu)_
 
 
 ### Join us!
-We hold elections according to our club constitution every December. If you would like to get involved, please [email us](mailto:chess@mit.edu)!
+We hold elections according to our club constitution every December. If you would like to get involved, please [email us](mailto:chess-exec@mit.edu)!
