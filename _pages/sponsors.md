@@ -2,7 +2,7 @@
 layout: inner
 title: Sponsors
 permalink: /sponsors/
-lead_text: 'We thank our generous sponsors for their support.'
+lead_text: 'Our sponsors allow us to take part in many activities and for this we are grateful.'
 ---
 
 <h1 id="platinum" style="color:#cdffff;text-align:center;" markdown="1">
@@ -11,21 +11,21 @@ lead_text: 'We thank our generous sponsors for their support.'
 
 
 <h2 style="color:#ffb900;text-align:center;padding-top:35px;" markdown="1">
-  MASTER
+  International Master
 </h2>
 
 
 <h3 style="color:#d0d0d0;text-align:center;padding-top:35px;" markdown="1">
-  EXPERT
+  Master
 </h3>
+
+<h4 style="color:#e78000;text-align:center;padding-top:35px;" markdown="1">
+  Expert
+</h4>
 <img src="/img/sponsor/JaneStreet_1.jpeg" style="width:100%;" markdown="1">
 <br>
 <img src="/img/sponsor/citadel.jpg" style="width:100%;" markdown="1">
 <br>
-
-<h4 style="color:#e78000;text-align:center;padding-top:35px;" markdown="1">
-  AMATEUR
-</h4>
 
 
 <!-- <img src="/img/sponsor/sig.gif" style="width:100%;" markdown="1">
