@@ -8,7 +8,8 @@ lead_text: 'Our sponsors allow us to take part in many activities and for this w
 <h1 id="platinum" style="color:#cdffff;text-align:center;" markdown="1">
   GRANDMASTER
 </h1>
-
+<img src="/img/sponsor/flow_traders_logo.PNG" style="width:100%;" markdown="1">
+<br>
 
 <h2 style="color:#ffb900;text-align:center;padding-top:35px;" markdown="1">
   International Master
