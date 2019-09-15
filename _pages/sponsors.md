@@ -6,7 +6,7 @@ lead_text: 'Our sponsors allow us to take part in many activities and for this w
 ---
 
 <h1 id="platinum" style="color:#cdffff;text-align:center;" markdown="1">
-  GRANDMASTER
+  Grandmaster
 </h1>
 <img src="/img/sponsor/flow_traders_logo.PNG" style="width:100%;" markdown="1">
 <br>
