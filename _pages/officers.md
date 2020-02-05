@@ -13,7 +13,7 @@ Tyrone Davis III '22
 _[chess-vp](mailto:chess-vp@mit.edu)_
 
 ## Treasurer
-Jonah Butler '19
+Aileen Ma '22
 _[chess-fin](mailto:chess-fin@mit.edu)_
 
 ## Officer of Meetings
