@@ -19,6 +19,7 @@ lead_text: 'Our sponsors allow us to take part in many activities and for this w
 <h3 style="color:#d0d0d0;text-align:center;padding-top:35px;" markdown="1">
   Master
 </h3>
+<img src="/img/sponsor/sig.gif" style="width:100%;" markdown="1">
 
 <h4 style="color:#e78000;text-align:center;padding-top:35px;" markdown="1">
   Expert
